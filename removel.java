@@ -8,7 +8,7 @@ class ListNode {
     }
 }
 
-public class removen {
+public class removel {
     public static void main(String[] args) {
         // Create list: 1 -> 2 -> 3 -> 4 -> 5
         ListNode head = new ListNode(1);
